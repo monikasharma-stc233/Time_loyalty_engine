@@ -36,9 +36,6 @@ time_based_loyalty_Engine/
 │   ├── graphqlClient.js         # Shopify GraphQL API client (with rate limit handling)
 │   └── hmacValidator.js         # HMAC-SHA256 webhook signature validator
 │
-├── helpers/
-│   └── dateHelpers.js           # Date utility helpers
-│
 ├── .env                         # Environment variables (not committed)
 ├── .gitignore
 └── package.json
